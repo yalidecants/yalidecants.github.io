@@ -1,0 +1,2 @@
+window.SUPABASE_URL = "https://lxpcmhpuaygvewvagmtg.supabase.co";
+window.SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx4cGNtaHB1YXlndmV3dmFnbXRnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM2Njg3NjksImV4cCI6MjEwOTI0NDc2OX0.UsyLtOv-0xibOJxPGooEeTfY0fpoIFR8kE6gtqbGsJA";
